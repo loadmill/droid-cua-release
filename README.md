@@ -24,6 +24,8 @@ Create, run, and manage mobile tests with natural language. The desktop app guid
 This repository is the public release-artifacts repository for `droid-cua`.
 It is used for desktop app downloads and release notes.
 
+https://github.com/user-attachments/assets/b9e15a1d-8072-4a2f-a4c5-db180ae38620
+
 ---
 
 <h2 id="what-is-droid-cua">What is droid-cua?</h2>
